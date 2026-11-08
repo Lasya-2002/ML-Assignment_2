@@ -41,7 +41,7 @@ standard error (`se`), and worst-value features.
 
 ## 3. GitHub Repository Link
 
-**GitHub Repository:** `PASTE YOUR GITHUB REPOSITORY URL HERE`
+**GitHub Repository:** https://github.com/Lasya-2002/ML-Assignment_2
 
 The repository includes the Streamlit application, dependency list,
 dataset test file, source notebook, saved model artifacts, and this
