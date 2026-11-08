@@ -48,7 +48,7 @@ dataset test file, source notebook, saved model artifacts, and this
 README file.
 
 **Live Streamlit Application:**
-`PASTE YOUR STREAMLIT COMMUNITY CLOUD URL HERE`
+https://ml-assignment2-2026aj05335.streamlit.app/ ---
 
 ## 4. Models Used and Evaluation
 
